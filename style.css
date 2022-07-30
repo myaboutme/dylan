@@ -1,0 +1,41 @@
+body {
+  font-family: "Rubik", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+#content {
+  margin-left: 25%;
+  margin-right: 25%;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 25px;
+  height: 100%;
+  padding: 25px;
+  font-size: 14pt;
+}
+
+.centered {
+  text-align: center;
+}
+
+.top-margin {
+  margin-top: 50px;
+}
+
+.bottom-margin {
+  margin-bottom: 50px;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.large {
+  font-size: 24pt;
+}
+
+a {
+  text-decoration: none;
+  color: dodgerblue;
+}
